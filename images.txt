@@ -1,4 +1,8 @@
 nginx
+redis
+postgres
+python:3.11.9-alpine
+eclipse-mosquitto
 odoo:17.0
 odoo:16.0
 odoo:15.0
