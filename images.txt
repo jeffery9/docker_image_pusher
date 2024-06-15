@@ -11,8 +11,9 @@ odoo:13.0
 ubuntu:jammy
 debian:bullseye-slim
 alpine
+node
 #支持私库
-ghcr.io/toeverything/affine-self-hosted:latest
+ghcr.io/toeverything/affine-graphql:stable
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
