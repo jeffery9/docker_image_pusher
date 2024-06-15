@@ -8,6 +8,9 @@ odoo:16.0
 odoo:15.0
 odoo:14.0
 odoo:13.0
+ubuntu:jammy
+debian:bullseye-slim
+alpine
 #支持私库
 ghcr.io/toeverything/affine-self-hosted:latest
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
