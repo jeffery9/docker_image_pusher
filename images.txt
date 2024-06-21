@@ -1,6 +1,7 @@
 nginx
 redis
 postgres
+python:3.11
 python:3.11-alpine
 python:3.11-slim
 python:3.11-bullseye
