@@ -6,6 +6,7 @@ python:3.11-alpine
 python:3.11-slim
 python:3.11-bullseye
 eclipse-mosquitto
+odoo:18.0
 odoo:17.0
 odoo:16.0
 odoo:15.0
@@ -22,5 +23,3 @@ alpine
 node
 #支持私库
 ghcr.io/toeverything/affine-graphql:stable
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-
