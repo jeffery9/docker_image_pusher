@@ -6,6 +6,8 @@ python:3.11-alpine
 python:3.11-slim
 python:3.11-bullseye
 eclipse-mosquitto
+odoo:20.0
+odoo:19.0
 odoo:18.0
 odoo:17.0
 odoo:16.0
